@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weekly-Test-2-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Weekly-Test-2-React/static/js/main.be0a4dcf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Weekly-Test-2-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Weekly-Test-2-React/index.html",
+    "main.e6c13ad2.css.map": "/Weekly-Test-2-React/static/css/main.e6c13ad2.css.map",
+    "main.be0a4dcf.js.map": "/Weekly-Test-2-React/static/js/main.be0a4dcf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Weekly-Test-2-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be0a4dcf.js"
+  ]
+}
